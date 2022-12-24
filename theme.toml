@@ -1,6 +1,5 @@
-name = "hello-friend-ng"
-license = "MIT"
-licenselink = "https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/LICENSE.md"
+name = "hello-friend-ng-custom"
+license = "MIT""
 description = "A simple theme for Hugo. That's it."
 tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minimal", "monochromatic", "multilingual", "personal", "responsive", "simple", "technical"]
 features = ["blog", "shortcode", "syntax highlighting"]
